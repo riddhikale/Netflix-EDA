@@ -1,6 +1,5 @@
 # Netflix-EDA
 
-# Netflix Dataset EDA
 This is a beginner-friendly Exploratory Data Analysis (EDA) project on the **Netflix dataset** using Python.  
 I used **Pandas, Matplotlib, and Jupyter Notebook** to explore and visualize the data.
 
@@ -45,5 +44,4 @@ pip install pandas matplotlib jupyter
 
 ## Run the notebook:
 jupyter notebook Netflix_EDA.ipynb
-
 
